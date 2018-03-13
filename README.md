@@ -9,7 +9,7 @@ It is very similar to Word2Vec, an algorithm made for word representation.
 __Disclaimer__
 This implementation is based on a previous work I have done to implement n-skip gram with negative sampling for word embedding. 
 It is far from perfect, far from optimized. And there are still a lot of things I need to change.
-There are previous implementations of Node2Vec, especially by those who invented the algorithm from [MIT](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf). If you want to use this, it is at your own risk for now on. ;)
+There are previous implementations of Node2Vec, especially by those who invented the algorithm from [Stanford](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf). If you want to use this, it is at your own risk for now on. ;)
 I'll add the other papers I used for this implementation later.
 
 ## Architecture of the algorithm
